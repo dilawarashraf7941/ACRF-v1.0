@@ -1,0 +1,42 @@
+{
+  "reward_per_step": [
+    1.049519,
+    1.01871,
+    0.841376,
+    1.04639
+  ],
+  "cumulative_reward": [
+    1.049519,
+    2.068229,
+    2.909605,
+    3.9559949999999997
+  ],
+  "instantaneous_regret": [
+    0.0,
+    0.030809000000000086,
+    0.20814300000000008,
+    0.0031290000000001594
+  ],
+  "cumulative_regret": [
+    0.0,
+    0.030809000000000086,
+    0.23895200000000016,
+    0.24208100000000032
+  ],
+  "average_reward": 0.9889987499999999,
+  "moving_average_reward": [
+    1.049519,
+    1.0341145,
+    0.9698683333333333,
+    0.9889987499999999
+  ],
+  "metadata": {
+    "num_steps": 4,
+    "convergence_point": 3,
+    "learning_rate_estimate": -0.018672100000000046,
+    "moving_average_window": 10,
+    "convergence_tolerance": 0.05,
+    "best_reward_observed": 1.049519,
+    "worst_reward_observed": 0.841376
+  }
+}

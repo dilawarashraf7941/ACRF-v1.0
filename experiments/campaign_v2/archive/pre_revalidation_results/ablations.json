@@ -1,0 +1,71 @@
+[
+  {
+    "ablation_type": "random_critic_selection",
+    "baseline_reward": 0.78639803885848,
+    "candidate_reward": 0.6590581963273277,
+    "reward_difference": -0.12733984253115238,
+    "quality_difference": -0.08096988292644158,
+    "latency_difference": 0.25737491864194806,
+    "iteration_difference": 0.30295257463653025,
+    "conclusion": "LinUCBPolicy performed significantly better in the 'random_critic_selection' ablation (p=0.0000, effect size=-3.9881).",
+    "metadata": {
+      "experiment_name": "4-ablation-random-critic",
+      "baseline_policy": "LinUCBPolicy",
+      "candidate_policy": "RandomCriticPolicy",
+      "winner": "LinUCBPolicy",
+      "p_value": 1.4853544219017028e-19,
+      "effect_size": -3.988058474239255,
+      "test_used": "paired_t_test",
+      "significant": true,
+      "sample_size": 30,
+      "num_runs": 30,
+      "random_seed": 2024
+    }
+  },
+  {
+    "ablation_type": "reduced_context_features",
+    "baseline_reward": 0.78639803885848,
+    "candidate_reward": 0.78639803885848,
+    "reward_difference": 0.0,
+    "quality_difference": 0.0,
+    "latency_difference": 0.0,
+    "iteration_difference": 0.0,
+    "conclusion": "No statistically significant difference between LinUCBPolicy (baseline) and LinUCBPolicy (candidate) for the 'reduced_context_features' ablation (p=1.0000).",
+    "metadata": {
+      "experiment_name": "5-ablation-reduced-context",
+      "baseline_policy": "LinUCBPolicy",
+      "candidate_policy": "LinUCBPolicy",
+      "winner": "tie",
+      "p_value": 1.0,
+      "effect_size": 0.0,
+      "test_used": "degenerate_zero_variance",
+      "significant": false,
+      "sample_size": 30,
+      "num_runs": 30,
+      "random_seed": 2024
+    }
+  },
+  {
+    "ablation_type": "alternative_reward_definitions",
+    "baseline_reward": 0.78639803885848,
+    "candidate_reward": 0.7768414864950709,
+    "reward_difference": -0.009556552363409132,
+    "quality_difference": 0.0,
+    "latency_difference": 0.0,
+    "iteration_difference": 0.0,
+    "conclusion": "LinUCBPolicy (baseline) performed significantly better in the 'alternative_reward_definitions' ablation (p=0.0003, effect size=-0.7498).",
+    "metadata": {
+      "experiment_name": "6-ablation-quality-only-reward",
+      "baseline_policy": "LinUCBPolicy",
+      "candidate_policy": "LinUCBPolicy",
+      "winner": "LinUCBPolicy",
+      "p_value": 0.00029907252259956453,
+      "effect_size": -0.7498089221657623,
+      "test_used": "paired_t_test",
+      "significant": true,
+      "sample_size": 30,
+      "num_runs": 30,
+      "random_seed": 2024
+    }
+  }
+]

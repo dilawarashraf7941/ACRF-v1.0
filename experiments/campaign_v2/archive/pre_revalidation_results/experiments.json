@@ -1,0 +1,4919 @@
+[
+  {
+    "experiment_name": "1-heuristic-baseline",
+    "policy_name": "HeuristicPolicy",
+    "runs": [
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 120,
+        "total_reward": 93.467552,
+        "average_reward": 0.7788962666666667,
+        "average_quality": 0.7849364497428938,
+        "average_iterations": 1.1083333333333334,
+        "average_latency": 1.0708046884924063,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 122,
+        "total_reward": 96.25984400000002,
+        "average_reward": 0.7890151147540985,
+        "average_quality": 0.766009298626767,
+        "average_iterations": 0.8852459016393442,
+        "average_latency": 1.0316878327049435,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4066666666666667
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.85386100000001,
+        "average_reward": 0.7730150080645162,
+        "average_quality": 0.7682713780441393,
+        "average_iterations": 1.0887096774193548,
+        "average_latency": 1.0825474044640828,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.44908299999993,
+        "average_reward": 0.7697506693548382,
+        "average_quality": 0.7628227075117855,
+        "average_iterations": 0.8870967741935484,
+        "average_latency": 1.038860923227591,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 120,
+        "total_reward": 94.31017799999998,
+        "average_reward": 0.7859181499999999,
+        "average_quality": 0.7765272081480298,
+        "average_iterations": 0.9583333333333334,
+        "average_latency": 1.062181683024721,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 121,
+        "total_reward": 97.32649399999998,
+        "average_reward": 0.8043511900826444,
+        "average_quality": 0.7825833178369594,
+        "average_iterations": 0.9338842975206612,
+        "average_latency": 1.1183616287579878,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 104,
+        "total_reward": 79.66228299999997,
+        "average_reward": 0.7659834903846151,
+        "average_quality": 0.7765472598116097,
+        "average_iterations": 1.1346153846153846,
+        "average_latency": 1.0766611140196352,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3466666666666667
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 108,
+        "total_reward": 84.23486,
+        "average_reward": 0.7799524074074073,
+        "average_quality": 0.7756088116057022,
+        "average_iterations": 1.1018518518518519,
+        "average_latency": 1.0612770847643997,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 119,
+        "total_reward": 94.66181999999998,
+        "average_reward": 0.7954774789915965,
+        "average_quality": 0.7639963643141874,
+        "average_iterations": 0.865546218487395,
+        "average_latency": 1.051051407288395,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 127,
+        "total_reward": 103.34949700000001,
+        "average_reward": 0.813775566929134,
+        "average_quality": 0.7865923841117629,
+        "average_iterations": 0.9291338582677166,
+        "average_latency": 1.0468875274708183,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.786967,
+        "average_reward": 0.7912669568965518,
+        "average_quality": 0.7828389073209875,
+        "average_iterations": 1.0862068965517242,
+        "average_latency": 1.0555770598741694,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 131,
+        "total_reward": 103.03034999999998,
+        "average_reward": 0.7864912213740457,
+        "average_quality": 0.7746579178139498,
+        "average_iterations": 1.0458015267175573,
+        "average_latency": 1.0610445826409756,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43666666666666665
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 118,
+        "total_reward": 92.62385500000002,
+        "average_reward": 0.7849479237288137,
+        "average_quality": 0.774036470745501,
+        "average_iterations": 0.9745762711864406,
+        "average_latency": 1.069907241048707,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.24572499999998,
+        "average_reward": 0.7740853070175436,
+        "average_quality": 0.7758924695231945,
+        "average_iterations": 1.105263157894737,
+        "average_latency": 1.0361449367053024,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 124,
+        "total_reward": 98.40748699999999,
+        "average_reward": 0.7936087661290322,
+        "average_quality": 0.78698486902523,
+        "average_iterations": 1.0161290322580645,
+        "average_latency": 1.0288137562885977,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.428491,
+        "average_reward": 0.8112705596330275,
+        "average_quality": 0.78091846182582,
+        "average_iterations": 0.8348623853211009,
+        "average_latency": 1.081032122238583,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 121,
+        "total_reward": 92.341419,
+        "average_reward": 0.7631522231404959,
+        "average_quality": 0.7602034151764115,
+        "average_iterations": 1.0826446280991735,
+        "average_latency": 1.114577839618616,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 107,
+        "total_reward": 84.91075899999997,
+        "average_reward": 0.7935584953271025,
+        "average_quality": 0.7674086986579104,
+        "average_iterations": 1.02803738317757,
+        "average_latency": 1.0470983301151557,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 99,
+        "total_reward": 76.36447999999999,
+        "average_reward": 0.7713583838383837,
+        "average_quality": 0.7755324784108597,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.073380546596055,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.47645700000004,
+        "average_reward": 0.7736226746031749,
+        "average_quality": 0.7767484226876437,
+        "average_iterations": 1.0634920634920635,
+        "average_latency": 1.0625152912270392,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.34581499999999,
+        "average_reward": 0.7798733482142856,
+        "average_quality": 0.7743743144286122,
+        "average_iterations": 0.9196428571428571,
+        "average_latency": 1.068592047765214,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 110,
+        "total_reward": 87.50721000000003,
+        "average_reward": 0.7955200909090911,
+        "average_quality": 0.7769462102263086,
+        "average_iterations": 1.0,
+        "average_latency": 1.083069534851946,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36666666666666664
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.45281600000003,
+        "average_reward": 0.7719001428571431,
+        "average_quality": 0.7758103334274447,
+        "average_iterations": 0.9285714285714286,
+        "average_latency": 1.0603471292419484,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.13093299999994,
+        "average_reward": 0.7708804206349201,
+        "average_quality": 0.7865546666018517,
+        "average_iterations": 1.1031746031746033,
+        "average_latency": 1.0753898398140402,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 111,
+        "total_reward": 89.11027500000002,
+        "average_reward": 0.8027952702702704,
+        "average_quality": 0.7893351654612545,
+        "average_iterations": 0.972972972972973,
+        "average_latency": 1.0641322375257307,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 117,
+        "total_reward": 92.238451,
+        "average_reward": 0.788362829059829,
+        "average_quality": 0.7804247273608682,
+        "average_iterations": 1.1025641025641026,
+        "average_latency": 1.0378205854608795,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.72322,
+        "average_reward": 0.7942645762711864,
+        "average_quality": 0.7721470810549778,
+        "average_iterations": 1.0,
+        "average_latency": 1.0491765572364318,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 123,
+        "total_reward": 99.48216700000002,
+        "average_reward": 0.808798105691057,
+        "average_quality": 0.7860735930789726,
+        "average_iterations": 1.032520325203252,
+        "average_latency": 1.0739658778144114,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 146,
+        "total_reward": 112.443287,
+        "average_reward": 0.7701595,
+        "average_quality": 0.7758978372895068,
+        "average_iterations": 1.1164383561643836,
+        "average_latency": 1.0599725665254753,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4866666666666667
+        }
+      },
+      {
+        "policy_name": "HeuristicPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.27790400000002,
+        "average_reward": 0.809889027522936,
+        "average_quality": 0.7885610970170758,
+        "average_iterations": 0.8807339449541285,
+        "average_latency": 1.078029662466984,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      }
+    ],
+    "average_reward": 0.78639803885848,
+    "std_reward": 0.01460979501853943,
+    "average_quality": 0.7768414105629405,
+    "average_latency": 1.0640303013090413,
+    "average_iterations": 1.009579755570606,
+    "match_rate": 0.393111111111111,
+    "critic_selection_frequency": {
+      "CodeCritic": 1.0
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7652048918924823,
+        "upper": 0.8119594366394568
+      },
+      "reward_minimum": 0.7631522231404959,
+      "reward_maximum": 0.813775566929134
+    }
+  },
+  {
+    "experiment_name": "2-cold-start-linucb-alpha-0.25",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 93.467552,
+        "average_reward": 0.7788962666666667,
+        "average_quality": 0.7849364497428938,
+        "average_iterations": 1.1083333333333334,
+        "average_latency": 1.0708046884924063,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 122,
+        "total_reward": 96.25984400000002,
+        "average_reward": 0.7890151147540985,
+        "average_quality": 0.766009298626767,
+        "average_iterations": 0.8852459016393442,
+        "average_latency": 1.0316878327049435,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4066666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.85386100000001,
+        "average_reward": 0.7730150080645162,
+        "average_quality": 0.7682713780441393,
+        "average_iterations": 1.0887096774193548,
+        "average_latency": 1.0825474044640828,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.44908299999993,
+        "average_reward": 0.7697506693548382,
+        "average_quality": 0.7628227075117855,
+        "average_iterations": 0.8870967741935484,
+        "average_latency": 1.038860923227591,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 94.31017799999998,
+        "average_reward": 0.7859181499999999,
+        "average_quality": 0.7765272081480298,
+        "average_iterations": 0.9583333333333334,
+        "average_latency": 1.062181683024721,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 97.32649399999998,
+        "average_reward": 0.8043511900826444,
+        "average_quality": 0.7825833178369594,
+        "average_iterations": 0.9338842975206612,
+        "average_latency": 1.1183616287579878,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 104,
+        "total_reward": 79.66228299999997,
+        "average_reward": 0.7659834903846151,
+        "average_quality": 0.7765472598116097,
+        "average_iterations": 1.1346153846153846,
+        "average_latency": 1.0766611140196352,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3466666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 108,
+        "total_reward": 84.23486,
+        "average_reward": 0.7799524074074073,
+        "average_quality": 0.7756088116057022,
+        "average_iterations": 1.1018518518518519,
+        "average_latency": 1.0612770847643997,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 94.66181999999998,
+        "average_reward": 0.7954774789915965,
+        "average_quality": 0.7639963643141874,
+        "average_iterations": 0.865546218487395,
+        "average_latency": 1.051051407288395,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 127,
+        "total_reward": 103.34949700000001,
+        "average_reward": 0.813775566929134,
+        "average_quality": 0.7865923841117629,
+        "average_iterations": 0.9291338582677166,
+        "average_latency": 1.0468875274708183,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.786967,
+        "average_reward": 0.7912669568965518,
+        "average_quality": 0.7828389073209875,
+        "average_iterations": 1.0862068965517242,
+        "average_latency": 1.0555770598741694,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 131,
+        "total_reward": 103.03034999999998,
+        "average_reward": 0.7864912213740457,
+        "average_quality": 0.7746579178139498,
+        "average_iterations": 1.0458015267175573,
+        "average_latency": 1.0610445826409756,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43666666666666665
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 92.62385500000002,
+        "average_reward": 0.7849479237288137,
+        "average_quality": 0.774036470745501,
+        "average_iterations": 0.9745762711864406,
+        "average_latency": 1.069907241048707,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.24572499999998,
+        "average_reward": 0.7740853070175436,
+        "average_quality": 0.7758924695231945,
+        "average_iterations": 1.105263157894737,
+        "average_latency": 1.0361449367053024,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 98.40748699999999,
+        "average_reward": 0.7936087661290322,
+        "average_quality": 0.78698486902523,
+        "average_iterations": 1.0161290322580645,
+        "average_latency": 1.0288137562885977,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.428491,
+        "average_reward": 0.8112705596330275,
+        "average_quality": 0.78091846182582,
+        "average_iterations": 0.8348623853211009,
+        "average_latency": 1.081032122238583,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 92.341419,
+        "average_reward": 0.7631522231404959,
+        "average_quality": 0.7602034151764115,
+        "average_iterations": 1.0826446280991735,
+        "average_latency": 1.114577839618616,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 107,
+        "total_reward": 84.91075899999997,
+        "average_reward": 0.7935584953271025,
+        "average_quality": 0.7674086986579104,
+        "average_iterations": 1.02803738317757,
+        "average_latency": 1.0470983301151557,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 99,
+        "total_reward": 76.36447999999999,
+        "average_reward": 0.7713583838383837,
+        "average_quality": 0.7755324784108597,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.073380546596055,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.47645700000004,
+        "average_reward": 0.7736226746031749,
+        "average_quality": 0.7767484226876437,
+        "average_iterations": 1.0634920634920635,
+        "average_latency": 1.0625152912270392,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.34581499999999,
+        "average_reward": 0.7798733482142856,
+        "average_quality": 0.7743743144286122,
+        "average_iterations": 0.9196428571428571,
+        "average_latency": 1.068592047765214,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 110,
+        "total_reward": 87.50721000000003,
+        "average_reward": 0.7955200909090911,
+        "average_quality": 0.7769462102263086,
+        "average_iterations": 1.0,
+        "average_latency": 1.083069534851946,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36666666666666664
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.45281600000003,
+        "average_reward": 0.7719001428571431,
+        "average_quality": 0.7758103334274447,
+        "average_iterations": 0.9285714285714286,
+        "average_latency": 1.0603471292419484,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.13093299999994,
+        "average_reward": 0.7708804206349201,
+        "average_quality": 0.7865546666018517,
+        "average_iterations": 1.1031746031746033,
+        "average_latency": 1.0753898398140402,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 89.11027500000002,
+        "average_reward": 0.8027952702702704,
+        "average_quality": 0.7893351654612545,
+        "average_iterations": 0.972972972972973,
+        "average_latency": 1.0641322375257307,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 92.238451,
+        "average_reward": 0.788362829059829,
+        "average_quality": 0.7804247273608682,
+        "average_iterations": 1.1025641025641026,
+        "average_latency": 1.0378205854608795,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.72322,
+        "average_reward": 0.7942645762711864,
+        "average_quality": 0.7721470810549778,
+        "average_iterations": 1.0,
+        "average_latency": 1.0491765572364318,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 123,
+        "total_reward": 99.48216700000002,
+        "average_reward": 0.808798105691057,
+        "average_quality": 0.7860735930789726,
+        "average_iterations": 1.032520325203252,
+        "average_latency": 1.0739658778144114,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 146,
+        "total_reward": 112.443287,
+        "average_reward": 0.7701595,
+        "average_quality": 0.7758978372895068,
+        "average_iterations": 1.1164383561643836,
+        "average_latency": 1.0599725665254753,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4866666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.27790400000002,
+        "average_reward": 0.809889027522936,
+        "average_quality": 0.7885610970170758,
+        "average_iterations": 0.8807339449541285,
+        "average_latency": 1.078029662466984,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      }
+    ],
+    "average_reward": 0.78639803885848,
+    "std_reward": 0.01460979501853943,
+    "average_quality": 0.7768414105629405,
+    "average_latency": 1.0640303013090413,
+    "average_iterations": 1.009579755570606,
+    "match_rate": 0.393111111111111,
+    "critic_selection_frequency": {
+      "CodeCritic": 1.0
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7652048918924823,
+        "upper": 0.8119594366394568
+      },
+      "reward_minimum": 0.7631522231404959,
+      "reward_maximum": 0.813775566929134
+    }
+  },
+  {
+    "experiment_name": "2-cold-start-linucb-alpha-0.5",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 93.467552,
+        "average_reward": 0.7788962666666667,
+        "average_quality": 0.7849364497428938,
+        "average_iterations": 1.1083333333333334,
+        "average_latency": 1.0708046884924063,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 122,
+        "total_reward": 96.25984400000002,
+        "average_reward": 0.7890151147540985,
+        "average_quality": 0.766009298626767,
+        "average_iterations": 0.8852459016393442,
+        "average_latency": 1.0316878327049435,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4066666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.85386100000001,
+        "average_reward": 0.7730150080645162,
+        "average_quality": 0.7682713780441393,
+        "average_iterations": 1.0887096774193548,
+        "average_latency": 1.0825474044640828,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.44908299999993,
+        "average_reward": 0.7697506693548382,
+        "average_quality": 0.7628227075117855,
+        "average_iterations": 0.8870967741935484,
+        "average_latency": 1.038860923227591,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 94.31017799999998,
+        "average_reward": 0.7859181499999999,
+        "average_quality": 0.7765272081480298,
+        "average_iterations": 0.9583333333333334,
+        "average_latency": 1.062181683024721,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 97.32649399999998,
+        "average_reward": 0.8043511900826444,
+        "average_quality": 0.7825833178369594,
+        "average_iterations": 0.9338842975206612,
+        "average_latency": 1.1183616287579878,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 104,
+        "total_reward": 79.66228299999997,
+        "average_reward": 0.7659834903846151,
+        "average_quality": 0.7765472598116097,
+        "average_iterations": 1.1346153846153846,
+        "average_latency": 1.0766611140196352,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3466666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 108,
+        "total_reward": 84.23486,
+        "average_reward": 0.7799524074074073,
+        "average_quality": 0.7756088116057022,
+        "average_iterations": 1.1018518518518519,
+        "average_latency": 1.0612770847643997,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 94.66181999999998,
+        "average_reward": 0.7954774789915965,
+        "average_quality": 0.7639963643141874,
+        "average_iterations": 0.865546218487395,
+        "average_latency": 1.051051407288395,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 127,
+        "total_reward": 103.34949700000001,
+        "average_reward": 0.813775566929134,
+        "average_quality": 0.7865923841117629,
+        "average_iterations": 0.9291338582677166,
+        "average_latency": 1.0468875274708183,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.786967,
+        "average_reward": 0.7912669568965518,
+        "average_quality": 0.7828389073209875,
+        "average_iterations": 1.0862068965517242,
+        "average_latency": 1.0555770598741694,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 131,
+        "total_reward": 103.03034999999998,
+        "average_reward": 0.7864912213740457,
+        "average_quality": 0.7746579178139498,
+        "average_iterations": 1.0458015267175573,
+        "average_latency": 1.0610445826409756,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43666666666666665
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 92.62385500000002,
+        "average_reward": 0.7849479237288137,
+        "average_quality": 0.774036470745501,
+        "average_iterations": 0.9745762711864406,
+        "average_latency": 1.069907241048707,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.24572499999998,
+        "average_reward": 0.7740853070175436,
+        "average_quality": 0.7758924695231945,
+        "average_iterations": 1.105263157894737,
+        "average_latency": 1.0361449367053024,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 98.40748699999999,
+        "average_reward": 0.7936087661290322,
+        "average_quality": 0.78698486902523,
+        "average_iterations": 1.0161290322580645,
+        "average_latency": 1.0288137562885977,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.428491,
+        "average_reward": 0.8112705596330275,
+        "average_quality": 0.78091846182582,
+        "average_iterations": 0.8348623853211009,
+        "average_latency": 1.081032122238583,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 92.341419,
+        "average_reward": 0.7631522231404959,
+        "average_quality": 0.7602034151764115,
+        "average_iterations": 1.0826446280991735,
+        "average_latency": 1.114577839618616,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 107,
+        "total_reward": 84.91075899999997,
+        "average_reward": 0.7935584953271025,
+        "average_quality": 0.7674086986579104,
+        "average_iterations": 1.02803738317757,
+        "average_latency": 1.0470983301151557,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 99,
+        "total_reward": 76.36447999999999,
+        "average_reward": 0.7713583838383837,
+        "average_quality": 0.7755324784108597,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.073380546596055,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.47645700000004,
+        "average_reward": 0.7736226746031749,
+        "average_quality": 0.7767484226876437,
+        "average_iterations": 1.0634920634920635,
+        "average_latency": 1.0625152912270392,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.34581499999999,
+        "average_reward": 0.7798733482142856,
+        "average_quality": 0.7743743144286122,
+        "average_iterations": 0.9196428571428571,
+        "average_latency": 1.068592047765214,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 110,
+        "total_reward": 87.50721000000003,
+        "average_reward": 0.7955200909090911,
+        "average_quality": 0.7769462102263086,
+        "average_iterations": 1.0,
+        "average_latency": 1.083069534851946,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36666666666666664
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.45281600000003,
+        "average_reward": 0.7719001428571431,
+        "average_quality": 0.7758103334274447,
+        "average_iterations": 0.9285714285714286,
+        "average_latency": 1.0603471292419484,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.13093299999994,
+        "average_reward": 0.7708804206349201,
+        "average_quality": 0.7865546666018517,
+        "average_iterations": 1.1031746031746033,
+        "average_latency": 1.0753898398140402,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 89.11027500000002,
+        "average_reward": 0.8027952702702704,
+        "average_quality": 0.7893351654612545,
+        "average_iterations": 0.972972972972973,
+        "average_latency": 1.0641322375257307,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 92.238451,
+        "average_reward": 0.788362829059829,
+        "average_quality": 0.7804247273608682,
+        "average_iterations": 1.1025641025641026,
+        "average_latency": 1.0378205854608795,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.72322,
+        "average_reward": 0.7942645762711864,
+        "average_quality": 0.7721470810549778,
+        "average_iterations": 1.0,
+        "average_latency": 1.0491765572364318,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 123,
+        "total_reward": 99.48216700000002,
+        "average_reward": 0.808798105691057,
+        "average_quality": 0.7860735930789726,
+        "average_iterations": 1.032520325203252,
+        "average_latency": 1.0739658778144114,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 146,
+        "total_reward": 112.443287,
+        "average_reward": 0.7701595,
+        "average_quality": 0.7758978372895068,
+        "average_iterations": 1.1164383561643836,
+        "average_latency": 1.0599725665254753,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4866666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.27790400000002,
+        "average_reward": 0.809889027522936,
+        "average_quality": 0.7885610970170758,
+        "average_iterations": 0.8807339449541285,
+        "average_latency": 1.078029662466984,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      }
+    ],
+    "average_reward": 0.78639803885848,
+    "std_reward": 0.01460979501853943,
+    "average_quality": 0.7768414105629405,
+    "average_latency": 1.0640303013090413,
+    "average_iterations": 1.009579755570606,
+    "match_rate": 0.393111111111111,
+    "critic_selection_frequency": {
+      "CodeCritic": 1.0
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7652048918924823,
+        "upper": 0.8119594366394568
+      },
+      "reward_minimum": 0.7631522231404959,
+      "reward_maximum": 0.813775566929134
+    }
+  },
+  {
+    "experiment_name": "2-cold-start-linucb-alpha-1.0",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 93.467552,
+        "average_reward": 0.7788962666666667,
+        "average_quality": 0.7849364497428938,
+        "average_iterations": 1.1083333333333334,
+        "average_latency": 1.0708046884924063,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 122,
+        "total_reward": 96.25984400000002,
+        "average_reward": 0.7890151147540985,
+        "average_quality": 0.766009298626767,
+        "average_iterations": 0.8852459016393442,
+        "average_latency": 1.0316878327049435,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4066666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.85386100000001,
+        "average_reward": 0.7730150080645162,
+        "average_quality": 0.7682713780441393,
+        "average_iterations": 1.0887096774193548,
+        "average_latency": 1.0825474044640828,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.44908299999993,
+        "average_reward": 0.7697506693548382,
+        "average_quality": 0.7628227075117855,
+        "average_iterations": 0.8870967741935484,
+        "average_latency": 1.038860923227591,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 94.31017799999998,
+        "average_reward": 0.7859181499999999,
+        "average_quality": 0.7765272081480298,
+        "average_iterations": 0.9583333333333334,
+        "average_latency": 1.062181683024721,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 97.32649399999998,
+        "average_reward": 0.8043511900826444,
+        "average_quality": 0.7825833178369594,
+        "average_iterations": 0.9338842975206612,
+        "average_latency": 1.1183616287579878,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 104,
+        "total_reward": 79.66228299999997,
+        "average_reward": 0.7659834903846151,
+        "average_quality": 0.7765472598116097,
+        "average_iterations": 1.1346153846153846,
+        "average_latency": 1.0766611140196352,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3466666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 108,
+        "total_reward": 84.23486,
+        "average_reward": 0.7799524074074073,
+        "average_quality": 0.7756088116057022,
+        "average_iterations": 1.1018518518518519,
+        "average_latency": 1.0612770847643997,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 94.66181999999998,
+        "average_reward": 0.7954774789915965,
+        "average_quality": 0.7639963643141874,
+        "average_iterations": 0.865546218487395,
+        "average_latency": 1.051051407288395,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 127,
+        "total_reward": 103.34949700000001,
+        "average_reward": 0.813775566929134,
+        "average_quality": 0.7865923841117629,
+        "average_iterations": 0.9291338582677166,
+        "average_latency": 1.0468875274708183,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.786967,
+        "average_reward": 0.7912669568965518,
+        "average_quality": 0.7828389073209875,
+        "average_iterations": 1.0862068965517242,
+        "average_latency": 1.0555770598741694,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 131,
+        "total_reward": 103.03034999999998,
+        "average_reward": 0.7864912213740457,
+        "average_quality": 0.7746579178139498,
+        "average_iterations": 1.0458015267175573,
+        "average_latency": 1.0610445826409756,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43666666666666665
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 92.62385500000002,
+        "average_reward": 0.7849479237288137,
+        "average_quality": 0.774036470745501,
+        "average_iterations": 0.9745762711864406,
+        "average_latency": 1.069907241048707,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.24572499999998,
+        "average_reward": 0.7740853070175436,
+        "average_quality": 0.7758924695231945,
+        "average_iterations": 1.105263157894737,
+        "average_latency": 1.0361449367053024,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 98.40748699999999,
+        "average_reward": 0.7936087661290322,
+        "average_quality": 0.78698486902523,
+        "average_iterations": 1.0161290322580645,
+        "average_latency": 1.0288137562885977,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.428491,
+        "average_reward": 0.8112705596330275,
+        "average_quality": 0.78091846182582,
+        "average_iterations": 0.8348623853211009,
+        "average_latency": 1.081032122238583,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 92.341419,
+        "average_reward": 0.7631522231404959,
+        "average_quality": 0.7602034151764115,
+        "average_iterations": 1.0826446280991735,
+        "average_latency": 1.114577839618616,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 107,
+        "total_reward": 84.91075899999997,
+        "average_reward": 0.7935584953271025,
+        "average_quality": 0.7674086986579104,
+        "average_iterations": 1.02803738317757,
+        "average_latency": 1.0470983301151557,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 99,
+        "total_reward": 76.36447999999999,
+        "average_reward": 0.7713583838383837,
+        "average_quality": 0.7755324784108597,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.073380546596055,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.47645700000004,
+        "average_reward": 0.7736226746031749,
+        "average_quality": 0.7767484226876437,
+        "average_iterations": 1.0634920634920635,
+        "average_latency": 1.0625152912270392,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.34581499999999,
+        "average_reward": 0.7798733482142856,
+        "average_quality": 0.7743743144286122,
+        "average_iterations": 0.9196428571428571,
+        "average_latency": 1.068592047765214,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 110,
+        "total_reward": 87.50721000000003,
+        "average_reward": 0.7955200909090911,
+        "average_quality": 0.7769462102263086,
+        "average_iterations": 1.0,
+        "average_latency": 1.083069534851946,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36666666666666664
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.45281600000003,
+        "average_reward": 0.7719001428571431,
+        "average_quality": 0.7758103334274447,
+        "average_iterations": 0.9285714285714286,
+        "average_latency": 1.0603471292419484,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.13093299999994,
+        "average_reward": 0.7708804206349201,
+        "average_quality": 0.7865546666018517,
+        "average_iterations": 1.1031746031746033,
+        "average_latency": 1.0753898398140402,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 89.11027500000002,
+        "average_reward": 0.8027952702702704,
+        "average_quality": 0.7893351654612545,
+        "average_iterations": 0.972972972972973,
+        "average_latency": 1.0641322375257307,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 92.238451,
+        "average_reward": 0.788362829059829,
+        "average_quality": 0.7804247273608682,
+        "average_iterations": 1.1025641025641026,
+        "average_latency": 1.0378205854608795,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.72322,
+        "average_reward": 0.7942645762711864,
+        "average_quality": 0.7721470810549778,
+        "average_iterations": 1.0,
+        "average_latency": 1.0491765572364318,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 123,
+        "total_reward": 99.48216700000002,
+        "average_reward": 0.808798105691057,
+        "average_quality": 0.7860735930789726,
+        "average_iterations": 1.032520325203252,
+        "average_latency": 1.0739658778144114,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 146,
+        "total_reward": 112.443287,
+        "average_reward": 0.7701595,
+        "average_quality": 0.7758978372895068,
+        "average_iterations": 1.1164383561643836,
+        "average_latency": 1.0599725665254753,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4866666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.27790400000002,
+        "average_reward": 0.809889027522936,
+        "average_quality": 0.7885610970170758,
+        "average_iterations": 0.8807339449541285,
+        "average_latency": 1.078029662466984,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      }
+    ],
+    "average_reward": 0.78639803885848,
+    "std_reward": 0.01460979501853943,
+    "average_quality": 0.7768414105629405,
+    "average_latency": 1.0640303013090413,
+    "average_iterations": 1.009579755570606,
+    "match_rate": 0.393111111111111,
+    "critic_selection_frequency": {
+      "CodeCritic": 1.0
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7652048918924823,
+        "upper": 0.8119594366394568
+      },
+      "reward_minimum": 0.7631522231404959,
+      "reward_maximum": 0.813775566929134
+    }
+  },
+  {
+    "experiment_name": "2-cold-start-linucb-alpha-2.0",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 93.467552,
+        "average_reward": 0.7788962666666667,
+        "average_quality": 0.7849364497428938,
+        "average_iterations": 1.1083333333333334,
+        "average_latency": 1.0708046884924063,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 122,
+        "total_reward": 96.25984400000002,
+        "average_reward": 0.7890151147540985,
+        "average_quality": 0.766009298626767,
+        "average_iterations": 0.8852459016393442,
+        "average_latency": 1.0316878327049435,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4066666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.85386100000001,
+        "average_reward": 0.7730150080645162,
+        "average_quality": 0.7682713780441393,
+        "average_iterations": 1.0887096774193548,
+        "average_latency": 1.0825474044640828,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 95.44908299999993,
+        "average_reward": 0.7697506693548382,
+        "average_quality": 0.7628227075117855,
+        "average_iterations": 0.8870967741935484,
+        "average_latency": 1.038860923227591,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 120,
+        "total_reward": 94.31017799999998,
+        "average_reward": 0.7859181499999999,
+        "average_quality": 0.7765272081480298,
+        "average_iterations": 0.9583333333333334,
+        "average_latency": 1.062181683024721,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 97.32649399999998,
+        "average_reward": 0.8043511900826444,
+        "average_quality": 0.7825833178369594,
+        "average_iterations": 0.9338842975206612,
+        "average_latency": 1.1183616287579878,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 104,
+        "total_reward": 79.66228299999997,
+        "average_reward": 0.7659834903846151,
+        "average_quality": 0.7765472598116097,
+        "average_iterations": 1.1346153846153846,
+        "average_latency": 1.0766611140196352,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3466666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 108,
+        "total_reward": 84.23486,
+        "average_reward": 0.7799524074074073,
+        "average_quality": 0.7756088116057022,
+        "average_iterations": 1.1018518518518519,
+        "average_latency": 1.0612770847643997,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 94.66181999999998,
+        "average_reward": 0.7954774789915965,
+        "average_quality": 0.7639963643141874,
+        "average_iterations": 0.865546218487395,
+        "average_latency": 1.051051407288395,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 127,
+        "total_reward": 103.34949700000001,
+        "average_reward": 0.813775566929134,
+        "average_quality": 0.7865923841117629,
+        "average_iterations": 0.9291338582677166,
+        "average_latency": 1.0468875274708183,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.786967,
+        "average_reward": 0.7912669568965518,
+        "average_quality": 0.7828389073209875,
+        "average_iterations": 1.0862068965517242,
+        "average_latency": 1.0555770598741694,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 131,
+        "total_reward": 103.03034999999998,
+        "average_reward": 0.7864912213740457,
+        "average_quality": 0.7746579178139498,
+        "average_iterations": 1.0458015267175573,
+        "average_latency": 1.0610445826409756,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43666666666666665
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 92.62385500000002,
+        "average_reward": 0.7849479237288137,
+        "average_quality": 0.774036470745501,
+        "average_iterations": 0.9745762711864406,
+        "average_latency": 1.069907241048707,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.24572499999998,
+        "average_reward": 0.7740853070175436,
+        "average_quality": 0.7758924695231945,
+        "average_iterations": 1.105263157894737,
+        "average_latency": 1.0361449367053024,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 98.40748699999999,
+        "average_reward": 0.7936087661290322,
+        "average_quality": 0.78698486902523,
+        "average_iterations": 1.0161290322580645,
+        "average_latency": 1.0288137562885977,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.428491,
+        "average_reward": 0.8112705596330275,
+        "average_quality": 0.78091846182582,
+        "average_iterations": 0.8348623853211009,
+        "average_latency": 1.081032122238583,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 92.341419,
+        "average_reward": 0.7631522231404959,
+        "average_quality": 0.7602034151764115,
+        "average_iterations": 1.0826446280991735,
+        "average_latency": 1.114577839618616,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 107,
+        "total_reward": 84.91075899999997,
+        "average_reward": 0.7935584953271025,
+        "average_quality": 0.7674086986579104,
+        "average_iterations": 1.02803738317757,
+        "average_latency": 1.0470983301151557,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 99,
+        "total_reward": 76.36447999999999,
+        "average_reward": 0.7713583838383837,
+        "average_quality": 0.7755324784108597,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.073380546596055,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.47645700000004,
+        "average_reward": 0.7736226746031749,
+        "average_quality": 0.7767484226876437,
+        "average_iterations": 1.0634920634920635,
+        "average_latency": 1.0625152912270392,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.34581499999999,
+        "average_reward": 0.7798733482142856,
+        "average_quality": 0.7743743144286122,
+        "average_iterations": 0.9196428571428571,
+        "average_latency": 1.068592047765214,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 110,
+        "total_reward": 87.50721000000003,
+        "average_reward": 0.7955200909090911,
+        "average_quality": 0.7769462102263086,
+        "average_iterations": 1.0,
+        "average_latency": 1.083069534851946,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36666666666666664
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.45281600000003,
+        "average_reward": 0.7719001428571431,
+        "average_quality": 0.7758103334274447,
+        "average_iterations": 0.9285714285714286,
+        "average_latency": 1.0603471292419484,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.13093299999994,
+        "average_reward": 0.7708804206349201,
+        "average_quality": 0.7865546666018517,
+        "average_iterations": 1.1031746031746033,
+        "average_latency": 1.0753898398140402,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 89.11027500000002,
+        "average_reward": 0.8027952702702704,
+        "average_quality": 0.7893351654612545,
+        "average_iterations": 0.972972972972973,
+        "average_latency": 1.0641322375257307,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 92.238451,
+        "average_reward": 0.788362829059829,
+        "average_quality": 0.7804247273608682,
+        "average_iterations": 1.1025641025641026,
+        "average_latency": 1.0378205854608795,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.72322,
+        "average_reward": 0.7942645762711864,
+        "average_quality": 0.7721470810549778,
+        "average_iterations": 1.0,
+        "average_latency": 1.0491765572364318,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 123,
+        "total_reward": 99.48216700000002,
+        "average_reward": 0.808798105691057,
+        "average_quality": 0.7860735930789726,
+        "average_iterations": 1.032520325203252,
+        "average_latency": 1.0739658778144114,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 146,
+        "total_reward": 112.443287,
+        "average_reward": 0.7701595,
+        "average_quality": 0.7758978372895068,
+        "average_iterations": 1.1164383561643836,
+        "average_latency": 1.0599725665254753,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4866666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 109,
+        "total_reward": 88.27790400000002,
+        "average_reward": 0.809889027522936,
+        "average_quality": 0.7885610970170758,
+        "average_iterations": 0.8807339449541285,
+        "average_latency": 1.078029662466984,
+        "critic_selection_frequency": {
+          "CodeCritic": 1.0
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36333333333333334
+        }
+      }
+    ],
+    "average_reward": 0.78639803885848,
+    "std_reward": 0.01460979501853943,
+    "average_quality": 0.7768414105629405,
+    "average_latency": 1.0640303013090413,
+    "average_iterations": 1.009579755570606,
+    "match_rate": 0.393111111111111,
+    "critic_selection_frequency": {
+      "CodeCritic": 1.0
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7652048918924823,
+        "upper": 0.8119594366394568
+      },
+      "reward_minimum": 0.7631522231404959,
+      "reward_maximum": 0.813775566929134
+    }
+  },
+  {
+    "experiment_name": "3-sequential-learning-linucb-alpha-0.25",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 92.66889800000001,
+        "average_reward": 0.7787302352941178,
+        "average_quality": 0.7704703127103845,
+        "average_iterations": 1.0756302521008403,
+        "average_latency": 1.0953064736213114,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9495798319327731,
+          "FactCritic": 0.01680672268907563,
+          "LogicCritic": 0.01680672268907563,
+          "MetaCritic": 0.01680672268907563
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.78262200000002,
+        "average_reward": 0.7760525555555557,
+        "average_quality": 0.7521102491383207,
+        "average_iterations": 0.9523809523809523,
+        "average_latency": 1.0608372262081016,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9206349206349206,
+          "FactCritic": 0.015873015873015872,
+          "LogicCritic": 0.03968253968253968,
+          "MetaCritic": 0.023809523809523808
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 127,
+        "total_reward": 97.01965,
+        "average_reward": 0.763934251968504,
+        "average_quality": 0.7560796457937377,
+        "average_iterations": 1.125984251968504,
+        "average_latency": 1.1184991986560178,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9212598425196851,
+          "FactCritic": 0.023622047244094488,
+          "LogicCritic": 0.03937007874015748,
+          "MetaCritic": 0.015748031496062992
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 92.87914299999996,
+        "average_reward": 0.7804969999999997,
+        "average_quality": 0.7485380468018187,
+        "average_iterations": 0.8487394957983193,
+        "average_latency": 1.0751071660142901,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.907563025210084,
+          "FactCritic": 0.008403361344537815,
+          "LogicCritic": 0.05042016806722689,
+          "MetaCritic": 0.03361344537815126
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 130,
+        "total_reward": 95.32944999999998,
+        "average_reward": 0.7333034615384614,
+        "average_quality": 0.7580167692293635,
+        "average_iterations": 1.0307692307692307,
+        "average_latency": 1.125035679827971,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9076923076923077,
+          "FactCritic": 0.03076923076923077,
+          "LogicCritic": 0.038461538461538464,
+          "MetaCritic": 0.023076923076923078
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.43333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 94.29800199999997,
+        "average_reward": 0.7991356101694913,
+        "average_quality": 0.7698684656282517,
+        "average_iterations": 0.923728813559322,
+        "average_latency": 1.1434707091303893,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.923728813559322,
+          "FactCritic": 0.01694915254237288,
+          "LogicCritic": 0.05084745762711865,
+          "MetaCritic": 0.00847457627118644
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 107,
+        "total_reward": 78.38375099999999,
+        "average_reward": 0.7325584205607476,
+        "average_quality": 0.7606071940588051,
+        "average_iterations": 1.1121495327102804,
+        "average_latency": 1.1217242061550814,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9252336448598131,
+          "FactCritic": 0.04672897196261682,
+          "LogicCritic": 0.018691588785046728,
+          "MetaCritic": 0.009345794392523364
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3566666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 84.86985400000002,
+        "average_reward": 0.7645932792792794,
+        "average_quality": 0.7585329275179994,
+        "average_iterations": 1.1081081081081081,
+        "average_latency": 1.1220370630933327,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9009009009009009,
+          "FactCritic": 0.018018018018018018,
+          "LogicCritic": 0.05405405405405406,
+          "MetaCritic": 0.02702702702702703
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 93.36207999999999,
+        "average_reward": 0.7912040677966101,
+        "average_quality": 0.7518857351521457,
+        "average_iterations": 0.8898305084745762,
+        "average_latency": 1.0949904524295981,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9322033898305084,
+          "FactCritic": 0.01694915254237288,
+          "LogicCritic": 0.03389830508474576,
+          "MetaCritic": 0.01694915254237288
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 128,
+        "total_reward": 102.615157,
+        "average_reward": 0.8016809140625,
+        "average_quality": 0.7749761084602977,
+        "average_iterations": 0.984375,
+        "average_latency": 1.106528666180055,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9140625,
+          "FactCritic": 0.0234375,
+          "LogicCritic": 0.046875,
+          "MetaCritic": 0.015625
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4266666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 118,
+        "total_reward": 90.977094,
+        "average_reward": 0.7709923220338982,
+        "average_quality": 0.7691377632886008,
+        "average_iterations": 1.0932203389830508,
+        "average_latency": 1.0985023865959573,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9322033898305084,
+          "FactCritic": 0.00847457627118644,
+          "LogicCritic": 0.03389830508474576,
+          "MetaCritic": 0.025423728813559324
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3933333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 134,
+        "total_reward": 103.246914,
+        "average_reward": 0.7704993582089552,
+        "average_quality": 0.7627820246589369,
+        "average_iterations": 1.0746268656716418,
+        "average_latency": 1.0993852865104234,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9477611940298507,
+          "FactCritic": 0.022388059701492536,
+          "LogicCritic": 0.007462686567164179,
+          "MetaCritic": 0.022388059701492536
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.44666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 90.91057900000006,
+        "average_reward": 0.7770134957264963,
+        "average_quality": 0.7621734790366032,
+        "average_iterations": 0.9230769230769231,
+        "average_latency": 1.087815995929202,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9316239316239316,
+          "FactCritic": 0.02564102564102564,
+          "LogicCritic": 0.02564102564102564,
+          "MetaCritic": 0.017094017094017096
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 86.24386299999995,
+        "average_reward": 0.7371270341880337,
+        "average_quality": 0.7548185337910394,
+        "average_iterations": 1.1367521367521367,
+        "average_latency": 1.140155779446094,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8717948717948718,
+          "FactCritic": 0.03418803418803419,
+          "LogicCritic": 0.05982905982905983,
+          "MetaCritic": 0.03418803418803419
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 124,
+        "total_reward": 99.63284800000001,
+        "average_reward": 0.8034907096774194,
+        "average_quality": 0.7796094365121793,
+        "average_iterations": 0.9919354838709677,
+        "average_latency": 1.0546337254204192,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9516129032258065,
+          "FactCritic": 0.016129032258064516,
+          "LogicCritic": 0.024193548387096774,
+          "MetaCritic": 0.008064516129032258
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.41333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 89.23710299999998,
+        "average_reward": 0.7827816052631577,
+        "average_quality": 0.7662227986982907,
+        "average_iterations": 0.9649122807017544,
+        "average_latency": 1.1249650497178145,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9298245614035088,
+          "FactCritic": 0.02631578947368421,
+          "LogicCritic": 0.017543859649122806,
+          "MetaCritic": 0.02631578947368421
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 117,
+        "total_reward": 88.111285,
+        "average_reward": 0.753087905982906,
+        "average_quality": 0.7450731666778784,
+        "average_iterations": 1.0,
+        "average_latency": 1.1559446677422511,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9401709401709402,
+          "FactCritic": 0.008547008547008548,
+          "LogicCritic": 0.03418803418803419,
+          "MetaCritic": 0.017094017094017096
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 111,
+        "total_reward": 83.97555999999996,
+        "average_reward": 0.7565365765765762,
+        "average_quality": 0.7511575100705049,
+        "average_iterations": 1.0810810810810811,
+        "average_latency": 1.09962645690076,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9099099099099099,
+          "FactCritic": 0.018018018018018018,
+          "LogicCritic": 0.04504504504504504,
+          "MetaCritic": 0.02702702702702703
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 105,
+        "total_reward": 76.51857599999998,
+        "average_reward": 0.7287483428571426,
+        "average_quality": 0.7542374461726703,
+        "average_iterations": 1.161904761904762,
+        "average_latency": 1.1383530159632778,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9047619047619048,
+          "FactCritic": 0.0380952380952381,
+          "LogicCritic": 0.0380952380952381,
+          "MetaCritic": 0.01904761904761905
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.35
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 116,
+        "total_reward": 91.95634400000003,
+        "average_reward": 0.7927271034482761,
+        "average_quality": 0.76481736070731,
+        "average_iterations": 0.9568965517241379,
+        "average_latency": 1.096978155649794,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9310344827586207,
+          "FactCritic": 0.008620689655172414,
+          "LogicCritic": 0.034482758620689655,
+          "MetaCritic": 0.02586206896551724
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 88.67424699999998,
+        "average_reward": 0.7778442719298244,
+        "average_quality": 0.7623422478872114,
+        "average_iterations": 0.9385964912280702,
+        "average_latency": 1.1110128088008386,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9385964912280702,
+          "FactCritic": 0.008771929824561403,
+          "LogicCritic": 0.03508771929824561,
+          "MetaCritic": 0.017543859649122806
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 86.56137900000003,
+        "average_reward": 0.7728694553571431,
+        "average_quality": 0.7586656679873304,
+        "average_iterations": 1.0267857142857142,
+        "average_latency": 1.126639974952712,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9285714285714286,
+          "FactCritic": 0.017857142857142856,
+          "LogicCritic": 0.026785714285714284,
+          "MetaCritic": 0.026785714285714284
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 114,
+        "total_reward": 87.03366800000002,
+        "average_reward": 0.7634532280701756,
+        "average_quality": 0.7597832973402899,
+        "average_iterations": 1.0087719298245614,
+        "average_latency": 1.11958395951434,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9035087719298246,
+          "FactCritic": 0.02631578947368421,
+          "LogicCritic": 0.06140350877192982,
+          "MetaCritic": 0.008771929824561403
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 126,
+        "total_reward": 97.26749099999998,
+        "average_reward": 0.7719642142857142,
+        "average_quality": 0.7720174095419102,
+        "average_iterations": 1.0476190476190477,
+        "average_latency": 1.112174974614649,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9285714285714286,
+          "FactCritic": 0.023809523809523808,
+          "LogicCritic": 0.023809523809523808,
+          "MetaCritic": 0.023809523809523808
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.42
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 115,
+        "total_reward": 89.61210100000001,
+        "average_reward": 0.7792356608695653,
+        "average_quality": 0.7790588415419559,
+        "average_iterations": 1.0521739130434782,
+        "average_latency": 1.1095081028160174,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9130434782608695,
+          "FactCritic": 0.017391304347826087,
+          "LogicCritic": 0.06086956521739131,
+          "MetaCritic": 0.008695652173913044
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38333333333333336
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 119,
+        "total_reward": 91.84536099999998,
+        "average_reward": 0.7718097563025209,
+        "average_quality": 0.7578612690075462,
+        "average_iterations": 1.1008403361344539,
+        "average_latency": 1.0991828653682845,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8739495798319328,
+          "FactCritic": 0.04201680672268908,
+          "LogicCritic": 0.058823529411764705,
+          "MetaCritic": 0.025210084033613446
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.39666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 115,
+        "total_reward": 91.71461099999998,
+        "average_reward": 0.797518356521739,
+        "average_quality": 0.7597080670243146,
+        "average_iterations": 0.8956521739130435,
+        "average_latency": 1.1046647069276716,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9304347826086956,
+          "FactCritic": 0.02608695652173913,
+          "LogicCritic": 0.034782608695652174,
+          "MetaCritic": 0.008695652173913044
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.38333333333333336
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 121,
+        "total_reward": 98.25975600000002,
+        "average_reward": 0.8120640991735539,
+        "average_quality": 0.7817141853315642,
+        "average_iterations": 0.9752066115702479,
+        "average_latency": 1.1120106051188845,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9586776859504132,
+          "FactCritic": 0.008264462809917356,
+          "LogicCritic": 0.01652892561983471,
+          "MetaCritic": 0.01652892561983471
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.4033333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 142,
+        "total_reward": 110.816864,
+        "average_reward": 0.7804004507042254,
+        "average_quality": 0.764259665754285,
+        "average_iterations": 1.0492957746478873,
+        "average_latency": 1.0856354137784685,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9366197183098591,
+          "FactCritic": 0.02112676056338028,
+          "LogicCritic": 0.035211267605633804,
+          "MetaCritic": 0.007042253521126761
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.47333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 112,
+        "total_reward": 87.70361700000002,
+        "average_reward": 0.7830680089285716,
+        "average_quality": 0.7767134212814162,
+        "average_iterations": 0.9732142857142857,
+        "average_latency": 1.122909300931386,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.9285714285714286,
+          "FactCritic": 0.017857142857142856,
+          "LogicCritic": 0.03571428571428571,
+          "MetaCritic": 0.017857142857142856
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.37333333333333335
+        }
+      }
+    ],
+    "average_reward": 0.773497391744372,
+    "std_reward": 0.021241630055885134,
+    "average_quality": 0.762774634893432,
+    "average_latency": 1.1087740024671797,
+    "average_iterations": 1.0168086282539126,
+    "match_rate": 0.39622222222222214,
+    "critic_selection_frequency": {
+      "CodeCritic": 0.9231367353494705,
+      "FactCritic": 0.021115748820728895,
+      "LogicCritic": 0.03661678875762338,
+      "MetaCritic": 0.019130727072177087
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.7315106491922563,
+        "upper": 0.8058483917888564
+      },
+      "reward_minimum": 0.7287483428571426,
+      "reward_maximum": 0.8120640991735539
+    }
+  },
+  {
+    "experiment_name": "3-sequential-learning-linucb-alpha-0.5",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 100,
+        "total_reward": 75.27053000000002,
+        "average_reward": 0.7527053000000002,
+        "average_quality": 0.7448081527586409,
+        "average_iterations": 1.03,
+        "average_latency": 1.182058006284512,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.84,
+          "FactCritic": 0.08,
+          "LogicCritic": 0.06,
+          "MetaCritic": 0.02
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 74,
+        "total_reward": 53.82409799999997,
+        "average_reward": 0.7273526756756753,
+        "average_quality": 0.7370616945904794,
+        "average_iterations": 1.2702702702702702,
+        "average_latency": 1.113099771462849,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8378378378378378,
+          "FactCritic": 0.05405405405405406,
+          "LogicCritic": 0.05405405405405406,
+          "MetaCritic": 0.05405405405405406
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.24666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 39,
+        "total_reward": 27.688984,
+        "average_reward": 0.7099739487179487,
+        "average_quality": 0.7123068871606356,
+        "average_iterations": 1.0,
+        "average_latency": 1.2774273243979737,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.6666666666666666,
+          "FactCritic": 0.1282051282051282,
+          "LogicCritic": 0.07692307692307693,
+          "MetaCritic": 0.1282051282051282
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.13
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 83,
+        "total_reward": 60.375850999999976,
+        "average_reward": 0.7274198915662647,
+        "average_quality": 0.7204317006963384,
+        "average_iterations": 1.1566265060240963,
+        "average_latency": 1.1855381721065466,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7951807228915663,
+          "FactCritic": 0.07228915662650602,
+          "LogicCritic": 0.10843373493975904,
+          "MetaCritic": 0.024096385542168676
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.27666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 86,
+        "total_reward": 61.565583999999994,
+        "average_reward": 0.7158788837209301,
+        "average_quality": 0.7458297896344551,
+        "average_iterations": 1.1046511627906976,
+        "average_latency": 1.226925000691543,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7906976744186046,
+          "FactCritic": 0.05813953488372093,
+          "LogicCritic": 0.08139534883720931,
+          "MetaCritic": 0.06976744186046512
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.2866666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 66,
+        "total_reward": 45.103183,
+        "average_reward": 0.6833815606060606,
+        "average_quality": 0.7361731647647518,
+        "average_iterations": 1.4090909090909092,
+        "average_latency": 1.3285595905760113,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.696969696969697,
+          "FactCritic": 0.030303030303030304,
+          "LogicCritic": 0.21212121212121213,
+          "MetaCritic": 0.06060606060606061
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.22
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 82,
+        "total_reward": 56.66352800000001,
+        "average_reward": 0.6910186341463416,
+        "average_quality": 0.7274868786887658,
+        "average_iterations": 1.2682926829268293,
+        "average_latency": 1.217170212145523,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7682926829268293,
+          "FactCritic": 0.0975609756097561,
+          "LogicCritic": 0.0975609756097561,
+          "MetaCritic": 0.036585365853658534
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.2733333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 55,
+        "total_reward": 37.428574,
+        "average_reward": 0.6805195272727272,
+        "average_quality": 0.7188678204344352,
+        "average_iterations": 1.490909090909091,
+        "average_latency": 1.2396931521730428,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8,
+          "FactCritic": 0.07272727272727272,
+          "LogicCritic": 0.07272727272727272,
+          "MetaCritic": 0.05454545454545454
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.18333333333333332
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 57,
+        "total_reward": 40.409286000000016,
+        "average_reward": 0.7089348421052635,
+        "average_quality": 0.7213155099021445,
+        "average_iterations": 1.1403508771929824,
+        "average_latency": 1.2651579499980625,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7192982456140351,
+          "FactCritic": 0.07017543859649122,
+          "LogicCritic": 0.17543859649122806,
+          "MetaCritic": 0.03508771929824561
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.19
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 76,
+        "total_reward": 53.12431899999999,
+        "average_reward": 0.699004197368421,
+        "average_quality": 0.7389952891709958,
+        "average_iterations": 1.394736842105263,
+        "average_latency": 1.2208747389465227,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7236842105263158,
+          "FactCritic": 0.07894736842105263,
+          "LogicCritic": 0.14473684210526316,
+          "MetaCritic": 0.05263157894736842
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.25333333333333335
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 59,
+        "total_reward": 38.50258899999999,
+        "average_reward": 0.652586254237288,
+        "average_quality": 0.7160177452141455,
+        "average_iterations": 1.576271186440678,
+        "average_latency": 1.2686296149948137,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.711864406779661,
+          "FactCritic": 0.0847457627118644,
+          "LogicCritic": 0.13559322033898305,
+          "MetaCritic": 0.06779661016949153
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.19666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 41,
+        "total_reward": 27.386077999999998,
+        "average_reward": 0.6679531219512195,
+        "average_quality": 0.7032207937396517,
+        "average_iterations": 1.4390243902439024,
+        "average_latency": 1.3394994017738302,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.5121951219512195,
+          "FactCritic": 0.07317073170731707,
+          "LogicCritic": 0.24390243902439024,
+          "MetaCritic": 0.17073170731707318
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.13666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 88,
+        "total_reward": 66.687343,
+        "average_reward": 0.7578107159090909,
+        "average_quality": 0.7566093338309194,
+        "average_iterations": 0.9886363636363636,
+        "average_latency": 1.0896104400600437,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.875,
+          "FactCritic": 0.03409090909090909,
+          "LogicCritic": 0.06818181818181818,
+          "MetaCritic": 0.022727272727272728
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.29333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 74,
+        "total_reward": 52.69821299999997,
+        "average_reward": 0.712138013513513,
+        "average_quality": 0.7433134143090635,
+        "average_iterations": 1.2972972972972974,
+        "average_latency": 1.2181033903076304,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7702702702702703,
+          "FactCritic": 0.06756756756756757,
+          "LogicCritic": 0.12162162162162163,
+          "MetaCritic": 0.04054054054054054
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.24666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 75,
+        "total_reward": 56.095012000000004,
+        "average_reward": 0.7479334933333334,
+        "average_quality": 0.7603876602408995,
+        "average_iterations": 1.1866666666666668,
+        "average_latency": 1.2090838575220286,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8133333333333334,
+          "FactCritic": 0.08,
+          "LogicCritic": 0.06666666666666667,
+          "MetaCritic": 0.04
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.25
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 72,
+        "total_reward": 50.48837199999999,
+        "average_reward": 0.7012273888888888,
+        "average_quality": 0.7339660187216936,
+        "average_iterations": 1.3888888888888888,
+        "average_latency": 1.3214396594448197,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.6805555555555556,
+          "FactCritic": 0.06944444444444445,
+          "LogicCritic": 0.16666666666666666,
+          "MetaCritic": 0.08333333333333333
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.24
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 99,
+        "total_reward": 72.995764,
+        "average_reward": 0.7373309494949495,
+        "average_quality": 0.7224476428640307,
+        "average_iterations": 1.101010101010101,
+        "average_latency": 1.1972841738174658,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.797979797979798,
+          "FactCritic": 0.04040404040404041,
+          "LogicCritic": 0.10101010101010101,
+          "MetaCritic": 0.06060606060606061
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.33
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 13.107626999999999,
+        "average_reward": 0.546151125,
+        "average_quality": 0.6464611533527044,
+        "average_iterations": 1.4166666666666667,
+        "average_latency": 1.5061995181922763,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.375,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.125
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 75,
+        "total_reward": 51.515388,
+        "average_reward": 0.68687184,
+        "average_quality": 0.7274080885620092,
+        "average_iterations": 1.2933333333333332,
+        "average_latency": 1.2907245394579467,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7733333333333333,
+          "FactCritic": 0.05333333333333334,
+          "LogicCritic": 0.10666666666666667,
+          "MetaCritic": 0.06666666666666667
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.25
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 67,
+        "total_reward": 48.442117,
+        "average_reward": 0.7230166716417911,
+        "average_quality": 0.7413928608515379,
+        "average_iterations": 1.2835820895522387,
+        "average_latency": 1.2033449739599267,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7761194029850746,
+          "FactCritic": 0.029850746268656716,
+          "LogicCritic": 0.1044776119402985,
+          "MetaCritic": 0.08955223880597014
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.22333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 52,
+        "total_reward": 36.20536499999999,
+        "average_reward": 0.6962570192307691,
+        "average_quality": 0.7149682127633679,
+        "average_iterations": 1.25,
+        "average_latency": 1.297301494897243,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7884615384615384,
+          "FactCritic": 0.09615384615384616,
+          "LogicCritic": 0.07692307692307693,
+          "MetaCritic": 0.038461538461538464
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.17333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 46,
+        "total_reward": 31.247021,
+        "average_reward": 0.6792830652173913,
+        "average_quality": 0.7131428906555308,
+        "average_iterations": 1.3695652173913044,
+        "average_latency": 1.2858931090859553,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.5652173913043478,
+          "FactCritic": 0.08695652173913043,
+          "LogicCritic": 0.30434782608695654,
+          "MetaCritic": 0.043478260869565216
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.15333333333333332
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 108,
+        "total_reward": 80.79659600000002,
+        "average_reward": 0.7481166296296299,
+        "average_quality": 0.7484483123203295,
+        "average_iterations": 1.0925925925925926,
+        "average_latency": 1.1733000975053436,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8148148148148148,
+          "FactCritic": 0.05555555555555555,
+          "LogicCritic": 0.09259259259259259,
+          "MetaCritic": 0.037037037037037035
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.36
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 52,
+        "total_reward": 35.387586,
+        "average_reward": 0.6805304999999999,
+        "average_quality": 0.7407555473174452,
+        "average_iterations": 1.6730769230769231,
+        "average_latency": 1.2814241602291405,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7115384615384616,
+          "FactCritic": 0.09615384615384616,
+          "LogicCritic": 0.1346153846153846,
+          "MetaCritic": 0.057692307692307696
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.17333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 47,
+        "total_reward": 32.015162,
+        "average_reward": 0.681173659574468,
+        "average_quality": 0.7281950166648218,
+        "average_iterations": 1.2765957446808511,
+        "average_latency": 1.3234064376865224,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.6595744680851063,
+          "FactCritic": 0.10638297872340426,
+          "LogicCritic": 0.1702127659574468,
+          "MetaCritic": 0.06382978723404255
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.15666666666666668
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 88,
+        "total_reward": 66.105588,
+        "average_reward": 0.7511998636363636,
+        "average_quality": 0.7524126695834279,
+        "average_iterations": 1.2045454545454546,
+        "average_latency": 1.1606209082779675,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.8068181818181818,
+          "FactCritic": 0.045454545454545456,
+          "LogicCritic": 0.125,
+          "MetaCritic": 0.022727272727272728
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.29333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 33,
+        "total_reward": 20.636196000000005,
+        "average_reward": 0.6253392727272729,
+        "average_quality": 0.7056206043320493,
+        "average_iterations": 1.5454545454545454,
+        "average_latency": 1.3025983622936845,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.45454545454545453,
+          "FactCritic": 0.15151515151515152,
+          "LogicCritic": 0.3333333333333333,
+          "MetaCritic": 0.06060606060606061
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.11
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 45,
+        "total_reward": 32.374942999999995,
+        "average_reward": 0.7194431777777777,
+        "average_quality": 0.7481852557075616,
+        "average_iterations": 1.3333333333333333,
+        "average_latency": 1.2415091698196605,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7333333333333333,
+          "FactCritic": 0.08888888888888889,
+          "LogicCritic": 0.15555555555555556,
+          "MetaCritic": 0.022222222222222223
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.15
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 91,
+        "total_reward": 65.67738399999999,
+        "average_reward": 0.7217294945054944,
+        "average_quality": 0.7441098522933173,
+        "average_iterations": 1.1758241758241759,
+        "average_latency": 1.2168380112256059,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7802197802197802,
+          "FactCritic": 0.07692307692307693,
+          "LogicCritic": 0.10989010989010989,
+          "MetaCritic": 0.03296703296703297
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.30333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 97,
+        "total_reward": 72.93601100000004,
+        "average_reward": 0.7519176391752581,
+        "average_quality": 0.7494444475250145,
+        "average_iterations": 1.0206185567010309,
+        "average_latency": 1.1876503609415114,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.7938144329896907,
+          "FactCritic": 0.08247422680412371,
+          "LogicCritic": 0.07216494845360824,
+          "MetaCritic": 0.05154639175257732
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.3233333333333333
+        }
+      }
+    ],
+    "average_reward": 0.7028066452208044,
+    "std_reward": 0.0436570947266605,
+    "average_quality": 0.7299928136217054,
+    "average_latency": 1.2456988533425333,
+    "average_iterations": 1.2725970622882163,
+    "match_rate": 0.2278888888888889,
+    "critic_selection_frequency": {
+      "CodeCritic": 0.7277538939050171,
+      "FactCritic": 0.08038227109555715,
+      "LogicCritic": 0.1340937839778036,
+      "MetaCritic": 0.05777005102162231
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.6035625321022728,
+        "upper": 0.7541092893750002
+      },
+      "reward_minimum": 0.546151125,
+      "reward_maximum": 0.7578107159090909
+    }
+  },
+  {
+    "experiment_name": "3-sequential-learning-linucb-alpha-1.0",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 10.294543999999995,
+        "average_reward": 0.44758886956521715,
+        "average_quality": 0.6240629883432847,
+        "average_iterations": 1.9565217391304348,
+        "average_latency": 1.4425265524981616,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.391304347826087,
+          "FactCritic": 0.2608695652173913,
+          "LogicCritic": 0.21739130434782608,
+          "MetaCritic": 0.13043478260869565
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 31,
+        "total_reward": 16.547175999999997,
+        "average_reward": 0.5337798709677418,
+        "average_quality": 0.6551558047506124,
+        "average_iterations": 1.7096774193548387,
+        "average_latency": 1.3952594971756622,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3548387096774194,
+          "FactCritic": 0.1935483870967742,
+          "LogicCritic": 0.25806451612903225,
+          "MetaCritic": 0.1935483870967742
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.10333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 25,
+        "total_reward": 16.019735999999998,
+        "average_reward": 0.6407894399999999,
+        "average_quality": 0.6716993120890916,
+        "average_iterations": 1.28,
+        "average_latency": 1.2581966603199515,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.24,
+          "MetaCritic": 0.16
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 29,
+        "total_reward": 15.247870999999995,
+        "average_reward": 0.5257886551724136,
+        "average_quality": 0.6561110533719879,
+        "average_iterations": 1.5517241379310345,
+        "average_latency": 1.434034066537489,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.41379310344827586,
+          "FactCritic": 0.20689655172413793,
+          "LogicCritic": 0.27586206896551724,
+          "MetaCritic": 0.10344827586206896
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 28,
+        "total_reward": 15.195843,
+        "average_reward": 0.5427086785714286,
+        "average_quality": 0.6427624398954894,
+        "average_iterations": 1.4285714285714286,
+        "average_latency": 1.3582162772771338,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.39285714285714285,
+          "FactCritic": 0.21428571428571427,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.14285714285714285
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 14.713867,
+        "average_reward": 0.6130777916666666,
+        "average_quality": 0.691525531146985,
+        "average_iterations": 1.5,
+        "average_latency": 1.3189554643915644,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4166666666666667,
+          "FactCritic": 0.16666666666666666,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 27,
+        "total_reward": 16.62228,
+        "average_reward": 0.61564,
+        "average_quality": 0.6789173394864072,
+        "average_iterations": 1.3703703703703705,
+        "average_latency": 1.4136942454170591,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4074074074074074,
+          "FactCritic": 0.18518518518518517,
+          "LogicCritic": 0.2222222222222222,
+          "MetaCritic": 0.18518518518518517
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 28,
+        "total_reward": 15.140404,
+        "average_reward": 0.5407287142857143,
+        "average_quality": 0.6539346966592811,
+        "average_iterations": 1.5714285714285714,
+        "average_latency": 1.3355473109624243,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4642857142857143,
+          "FactCritic": 0.17857142857142858,
+          "LogicCritic": 0.21428571428571427,
+          "MetaCritic": 0.14285714285714285
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 28,
+        "total_reward": 14.991859999999999,
+        "average_reward": 0.5354235714285714,
+        "average_quality": 0.6550621677196273,
+        "average_iterations": 1.4285714285714286,
+        "average_latency": 1.3927723231511664,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.32142857142857145,
+          "FactCritic": 0.21428571428571427,
+          "LogicCritic": 0.2857142857142857,
+          "MetaCritic": 0.17857142857142858
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 12.826253,
+        "average_reward": 0.5576631739130434,
+        "average_quality": 0.6601152824284092,
+        "average_iterations": 1.6521739130434783,
+        "average_latency": 1.4403461578529304,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.391304347826087,
+          "FactCritic": 0.21739130434782608,
+          "LogicCritic": 0.2608695652173913,
+          "MetaCritic": 0.13043478260869565
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 30,
+        "total_reward": 17.622744,
+        "average_reward": 0.5874248000000001,
+        "average_quality": 0.6673383724231278,
+        "average_iterations": 1.6333333333333333,
+        "average_latency": 1.3316045354037374,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.36666666666666664,
+          "FactCritic": 0.23333333333333334,
+          "LogicCritic": 0.23333333333333334,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.1
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 22,
+        "total_reward": 13.124722000000002,
+        "average_reward": 0.5965782727272728,
+        "average_quality": 0.6754246050658682,
+        "average_iterations": 1.5909090909090908,
+        "average_latency": 1.4860177010725097,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4090909090909091,
+          "FactCritic": 0.13636363636363635,
+          "LogicCritic": 0.2727272727272727,
+          "MetaCritic": 0.18181818181818182
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 19,
+        "total_reward": 9.836365999999998,
+        "average_reward": 0.5177034736842104,
+        "average_quality": 0.6674967155358427,
+        "average_iterations": 2.0526315789473686,
+        "average_latency": 1.3116559524230964,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.47368421052631576,
+          "FactCritic": 0.15789473684210525,
+          "LogicCritic": 0.2631578947368421,
+          "MetaCritic": 0.10526315789473684
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 20,
+        "total_reward": 11.787465999999998,
+        "average_reward": 0.5893732999999999,
+        "average_quality": 0.6796960033379811,
+        "average_iterations": 1.4,
+        "average_latency": 1.5064536050042705,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.35,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.15
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 12,
+        "total_reward": 6.367641000000001,
+        "average_reward": 0.5306367500000001,
+        "average_quality": 0.6613320235182422,
+        "average_iterations": 1.75,
+        "average_latency": 1.447240318131577,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4166666666666667,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.16666666666666666,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.04
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 30,
+        "total_reward": 17.367466999999998,
+        "average_reward": 0.5789155666666665,
+        "average_quality": 0.6528162365308579,
+        "average_iterations": 1.5333333333333334,
+        "average_latency": 1.4113469499633098,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.36666666666666664,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.26666666666666666,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.1
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 30,
+        "total_reward": 17.339403,
+        "average_reward": 0.5779801,
+        "average_quality": 0.6412170871199481,
+        "average_iterations": 1.6,
+        "average_latency": 1.3980743971872973,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.36666666666666664,
+          "FactCritic": 0.16666666666666666,
+          "LogicCritic": 0.26666666666666666,
+          "MetaCritic": 0.2
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.1
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 13.068348000000002,
+        "average_reward": 0.5445145000000001,
+        "average_quality": 0.6352755879984416,
+        "average_iterations": 1.3333333333333333,
+        "average_latency": 1.4818880265543353,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3333333333333333,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 26,
+        "total_reward": 12.291072999999995,
+        "average_reward": 0.47273357692307677,
+        "average_quality": 0.6362515328520983,
+        "average_iterations": 1.9230769230769231,
+        "average_latency": 1.501129128192615,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4230769230769231,
+          "FactCritic": 0.19230769230769232,
+          "LogicCritic": 0.23076923076923078,
+          "MetaCritic": 0.15384615384615385
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 30,
+        "total_reward": 18.28409,
+        "average_reward": 0.6094696666666667,
+        "average_quality": 0.6680006785822231,
+        "average_iterations": 1.4,
+        "average_latency": 1.3706205826213815,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.36666666666666664,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.23333333333333334,
+          "MetaCritic": 0.2
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.1
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 31,
+        "total_reward": 17.013020999999995,
+        "average_reward": 0.5488071290322579,
+        "average_quality": 0.6522391185343077,
+        "average_iterations": 1.3548387096774193,
+        "average_latency": 1.4234779909695308,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3225806451612903,
+          "FactCritic": 0.22580645161290322,
+          "LogicCritic": 0.2903225806451613,
+          "MetaCritic": 0.16129032258064516
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.10333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 25,
+        "total_reward": 11.958461999999999,
+        "average_reward": 0.47833847999999995,
+        "average_quality": 0.6422526841630638,
+        "average_iterations": 1.96,
+        "average_latency": 1.3582860044231062,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.36,
+          "FactCritic": 0.24,
+          "LogicCritic": 0.24,
+          "MetaCritic": 0.16
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 20,
+        "total_reward": 11.271337,
+        "average_reward": 0.5635668500000001,
+        "average_quality": 0.6348402637228221,
+        "average_iterations": 1.75,
+        "average_latency": 1.4254677997104068,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.45,
+          "FactCritic": 0.15,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.15
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 10.927925,
+        "average_reward": 0.520377380952381,
+        "average_quality": 0.6759578193276315,
+        "average_iterations": 2.0952380952380953,
+        "average_latency": 1.4925608367518133,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.38095238095238093,
+          "FactCritic": 0.19047619047619047,
+          "LogicCritic": 0.23809523809523808,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 20,
+        "total_reward": 10.950320000000001,
+        "average_reward": 0.5475160000000001,
+        "average_quality": 0.7349277184331823,
+        "average_iterations": 1.95,
+        "average_latency": 1.3482326033080119,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.45,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.2,
+          "MetaCritic": 0.15
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 14.109023,
+        "average_reward": 0.5878759583333334,
+        "average_quality": 0.7080590498362086,
+        "average_iterations": 1.6666666666666667,
+        "average_latency": 1.4036617908870264,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3333333333333333,
+          "FactCritic": 0.16666666666666666,
+          "LogicCritic": 0.2916666666666667,
+          "MetaCritic": 0.20833333333333334
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 13.672990000000002,
+        "average_reward": 0.5944778260869567,
+        "average_quality": 0.6956849620179338,
+        "average_iterations": 1.6956521739130435,
+        "average_latency": 1.328490696610195,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.391304347826087,
+          "FactCritic": 0.21739130434782608,
+          "LogicCritic": 0.2608695652173913,
+          "MetaCritic": 0.13043478260869565
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 13.769476000000001,
+        "average_reward": 0.5737281666666667,
+        "average_quality": 0.6837182989985101,
+        "average_iterations": 1.75,
+        "average_latency": 1.4498026760632872,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.375,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.20833333333333334,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 20,
+        "total_reward": 10.441726000000001,
+        "average_reward": 0.5220863,
+        "average_quality": 0.6523772096595151,
+        "average_iterations": 1.55,
+        "average_latency": 1.5058176059211827,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.3,
+          "MetaCritic": 0.1
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 13.996241000000001,
+        "average_reward": 0.5831767083333333,
+        "average_quality": 0.6773848300497952,
+        "average_iterations": 1.625,
+        "average_latency": 1.3841615613833362,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.375,
+          "FactCritic": 0.20833333333333334,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      }
+    ],
+    "average_reward": 0.555948985721454,
+    "std_reward": 0.0443227144076146,
+    "average_quality": 0.6643879137866261,
+    "average_latency": 1.4051846439388525,
+    "average_iterations": 1.6354350748943396,
+    "match_rate": 0.08233333333333336,
+    "critic_selection_frequency": {
+      "CodeCritic": 0.3888191809352426,
+      "FactCritic": 0.20409801764437308,
+      "LogicCritic": 0.2479006041913264,
+      "MetaCritic": 0.1591821972290579
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.4658187823996654,
+        "upper": 0.622556096
+      },
+      "reward_minimum": 0.44758886956521715,
+      "reward_maximum": 0.6407894399999999
+    }
+  },
+  {
+    "experiment_name": "3-sequential-learning-linucb-alpha-2.0",
+    "policy_name": "LinUCBPolicy",
+    "runs": [
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 15,
+        "total_reward": 8.470719,
+        "average_reward": 0.5647146000000001,
+        "average_quality": 0.6345036864979525,
+        "average_iterations": 1.6,
+        "average_latency": 1.5291139152016804,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3333333333333333,
+          "FactCritic": 0.26666666666666666,
+          "LogicCritic": 0.2,
+          "MetaCritic": 0.2
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.05
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 29,
+        "total_reward": 17.023047999999996,
+        "average_reward": 0.5870016551724136,
+        "average_quality": 0.6652061234845543,
+        "average_iterations": 1.5517241379310345,
+        "average_latency": 1.4261576076502058,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3103448275862069,
+          "FactCritic": 0.2413793103448276,
+          "LogicCritic": 0.27586206896551724,
+          "MetaCritic": 0.1724137931034483
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 28,
+        "total_reward": 16.659037999999995,
+        "average_reward": 0.5949656428571427,
+        "average_quality": 0.6475629288786982,
+        "average_iterations": 1.1428571428571428,
+        "average_latency": 1.337658778115092,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.35714285714285715,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.21428571428571427,
+          "MetaCritic": 0.17857142857142858
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 19,
+        "total_reward": 10.128927,
+        "average_reward": 0.5331014210526316,
+        "average_quality": 0.6265271387842609,
+        "average_iterations": 1.6842105263157894,
+        "average_latency": 1.4474623066810677,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3157894736842105,
+          "FactCritic": 0.21052631578947367,
+          "LogicCritic": 0.3157894736842105,
+          "MetaCritic": 0.15789473684210525
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 12.278321999999998,
+        "average_reward": 0.5115967499999999,
+        "average_quality": 0.6190240156383765,
+        "average_iterations": 1.5416666666666667,
+        "average_latency": 1.3985449118800315,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2916666666666667,
+          "FactCritic": 0.2916666666666667,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 20,
+        "total_reward": 10.943149,
+        "average_reward": 0.54715745,
+        "average_quality": 0.6849594032382165,
+        "average_iterations": 1.9,
+        "average_latency": 1.4560404373728955,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.4,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.15
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 13.088904999999997,
+        "average_reward": 0.5690828260869564,
+        "average_quality": 0.6566905754861411,
+        "average_iterations": 1.5217391304347827,
+        "average_latency": 1.4043298013753478,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.34782608695652173,
+          "FactCritic": 0.21739130434782608,
+          "LogicCritic": 0.2608695652173913,
+          "MetaCritic": 0.17391304347826086
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 12.362738,
+        "average_reward": 0.5151140833333333,
+        "average_quality": 0.655948247500491,
+        "average_iterations": 1.6666666666666667,
+        "average_latency": 1.400014065109634,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.375,
+          "FactCritic": 0.20833333333333334,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 11.390282,
+        "average_reward": 0.5423943809523809,
+        "average_quality": 0.6436727456265022,
+        "average_iterations": 1.5714285714285714,
+        "average_latency": 1.4541386100565075,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.23809523809523808,
+          "FactCritic": 0.2857142857142857,
+          "LogicCritic": 0.2857142857142857,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 12.752348999999999,
+        "average_reward": 0.5544499565217391,
+        "average_quality": 0.6566367345510895,
+        "average_iterations": 1.6521739130434783,
+        "average_latency": 1.4350396494553188,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.30434782608695654,
+          "FactCritic": 0.2608695652173913,
+          "LogicCritic": 0.30434782608695654,
+          "MetaCritic": 0.13043478260869565
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 17,
+        "total_reward": 9.480809,
+        "average_reward": 0.5576946470588235,
+        "average_quality": 0.6503555323556771,
+        "average_iterations": 1.2941176470588236,
+        "average_latency": 1.500278749091185,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.29411764705882354,
+          "FactCritic": 0.23529411764705882,
+          "LogicCritic": 0.29411764705882354,
+          "MetaCritic": 0.17647058823529413
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.056666666666666664
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 14.585037999999999,
+        "average_reward": 0.6077099166666666,
+        "average_quality": 0.6726918649015688,
+        "average_iterations": 1.7083333333333333,
+        "average_latency": 1.4663057586359114,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2916666666666667,
+          "FactCritic": 0.20833333333333334,
+          "LogicCritic": 0.2916666666666667,
+          "MetaCritic": 0.20833333333333334
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 16,
+        "total_reward": 7.196799999999999,
+        "average_reward": 0.4497999999999999,
+        "average_quality": 0.6108455929949531,
+        "average_iterations": 1.9375,
+        "average_latency": 1.4709145859360906,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3125,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.1875
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.05333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 25,
+        "total_reward": 12.826152,
+        "average_reward": 0.5130460800000001,
+        "average_quality": 0.6528536387111523,
+        "average_iterations": 1.68,
+        "average_latency": 1.4361512236972442,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.32,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.32,
+          "MetaCritic": 0.16
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 16,
+        "total_reward": 8.272616000000001,
+        "average_reward": 0.5170385000000001,
+        "average_quality": 0.6542049841179416,
+        "average_iterations": 2.0,
+        "average_latency": 1.4933307249650627,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.375,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.25,
+          "MetaCritic": 0.125
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.05333333333333334
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 18,
+        "total_reward": 10.199551,
+        "average_reward": 0.5666417222222222,
+        "average_quality": 0.6527088448798634,
+        "average_iterations": 1.5555555555555556,
+        "average_latency": 1.4991213332597255,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2777777777777778,
+          "FactCritic": 0.2777777777777778,
+          "LogicCritic": 0.2777777777777778,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.06
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 30,
+        "total_reward": 16.744638999999996,
+        "average_reward": 0.5581546333333331,
+        "average_quality": 0.6296522607285623,
+        "average_iterations": 1.6666666666666667,
+        "average_latency": 1.4299541472660882,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3,
+          "FactCritic": 0.2,
+          "LogicCritic": 0.3,
+          "MetaCritic": 0.2
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.1
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 10.469231,
+        "average_reward": 0.4985348095238096,
+        "average_quality": 0.6239829172141199,
+        "average_iterations": 1.5238095238095237,
+        "average_latency": 1.5565798886818463,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2857142857142857,
+          "FactCritic": 0.23809523809523808,
+          "LogicCritic": 0.2857142857142857,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 22,
+        "total_reward": 10.494092,
+        "average_reward": 0.4770041818181818,
+        "average_quality": 0.6058401652078345,
+        "average_iterations": 1.6363636363636365,
+        "average_latency": 1.4858093674241724,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3181818181818182,
+          "FactCritic": 0.22727272727272727,
+          "LogicCritic": 0.22727272727272727,
+          "MetaCritic": 0.22727272727272727
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 26,
+        "total_reward": 15.526490999999998,
+        "average_reward": 0.5971727307692307,
+        "average_quality": 0.6756775341029816,
+        "average_iterations": 1.5,
+        "average_latency": 1.4162517300688657,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3076923076923077,
+          "FactCritic": 0.23076923076923078,
+          "LogicCritic": 0.23076923076923078,
+          "MetaCritic": 0.23076923076923078
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08666666666666667
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 27,
+        "total_reward": 15.704553999999996,
+        "average_reward": 0.581650148148148,
+        "average_quality": 0.6474126010352294,
+        "average_iterations": 1.3703703703703705,
+        "average_latency": 1.4633956949803828,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2962962962962963,
+          "FactCritic": 0.2222222222222222,
+          "LogicCritic": 0.2962962962962963,
+          "MetaCritic": 0.18518518518518517
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.09
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 9.35884,
+        "average_reward": 0.4456590476190477,
+        "average_quality": 0.6401900513343981,
+        "average_iterations": 2.0476190476190474,
+        "average_latency": 1.4144314910467946,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3333333333333333,
+          "FactCritic": 0.23809523809523808,
+          "LogicCritic": 0.23809523809523808,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 12.893220999999999,
+        "average_reward": 0.5605748260869564,
+        "average_quality": 0.6213326873737615,
+        "average_iterations": 1.6521739130434783,
+        "average_latency": 1.476026895943056,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.34782608695652173,
+          "FactCritic": 0.21739130434782608,
+          "LogicCritic": 0.2608695652173913,
+          "MetaCritic": 0.17391304347826086
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 23,
+        "total_reward": 11.939929,
+        "average_reward": 0.5191273478260869,
+        "average_quality": 0.6755269389943499,
+        "average_iterations": 1.9565217391304348,
+        "average_latency": 1.475818331948396,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.30434782608695654,
+          "FactCritic": 0.17391304347826086,
+          "LogicCritic": 0.30434782608695654,
+          "MetaCritic": 0.21739130434782608
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07666666666666666
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 11.460147,
+        "average_reward": 0.5457212857142857,
+        "average_quality": 0.693917555191257,
+        "average_iterations": 1.619047619047619,
+        "average_latency": 1.3448771624790787,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.3333333333333333,
+          "FactCritic": 0.23809523809523808,
+          "LogicCritic": 0.23809523809523808,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 22,
+        "total_reward": 11.867655000000005,
+        "average_reward": 0.5394388636363638,
+        "average_quality": 0.6824605994861761,
+        "average_iterations": 1.7727272727272727,
+        "average_latency": 1.4967980843237252,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2727272727272727,
+          "FactCritic": 0.2727272727272727,
+          "LogicCritic": 0.2727272727272727,
+          "MetaCritic": 0.18181818181818182
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 22,
+        "total_reward": 12.57846,
+        "average_reward": 0.5717481818181818,
+        "average_quality": 0.6403840753636684,
+        "average_iterations": 1.2727272727272727,
+        "average_latency": 1.4636267522469275,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2727272727272727,
+          "FactCritic": 0.2727272727272727,
+          "LogicCritic": 0.3181818181818182,
+          "MetaCritic": 0.13636363636363635
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07333333333333333
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 12.785167000000001,
+        "average_reward": 0.6088174761904762,
+        "average_quality": 0.6936985416774926,
+        "average_iterations": 1.4285714285714286,
+        "average_latency": 1.4119067089542223,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.38095238095238093,
+          "FactCritic": 0.19047619047619047,
+          "LogicCritic": 0.23809523809523808,
+          "MetaCritic": 0.19047619047619047
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 21,
+        "total_reward": 10.625003000000003,
+        "average_reward": 0.5059525238095239,
+        "average_quality": 0.6157567333008425,
+        "average_iterations": 1.619047619047619,
+        "average_latency": 1.529416896934061,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2857142857142857,
+          "FactCritic": 0.2857142857142857,
+          "LogicCritic": 0.2857142857142857,
+          "MetaCritic": 0.14285714285714285
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.07
+        }
+      },
+      {
+        "policy_name": "LinUCBPolicy",
+        "total_experiences": 24,
+        "total_reward": 14.171100000000001,
+        "average_reward": 0.5904625,
+        "average_quality": 0.6701720005244539,
+        "average_iterations": 1.4583333333333333,
+        "average_latency": 1.427521765136497,
+        "critic_selection_frequency": {
+          "CodeCritic": 0.2916666666666667,
+          "FactCritic": 0.25,
+          "LogicCritic": 0.2916666666666667,
+          "MetaCritic": 0.16666666666666666
+        },
+        "metadata": {
+          "total_stored_experiences": 300,
+          "match_rate": 0.08
+        }
+      }
+    ],
+    "average_reward": 0.5443842729405978,
+    "std_reward": 0.042794486141139815,
+    "average_quality": 0.6500132239727522,
+    "average_latency": 1.4515672458639035,
+    "average_iterations": 1.617731757791652,
+    "match_rate": 0.074,
+    "critic_selection_frequency": {
+      "CodeCritic": 0.3158373855812664,
+      "FactCritic": 0.2370483980286548,
+      "LogicCritic": 0.26927589047966627,
+      "MetaCritic": 0.17783832591041257
+    },
+    "metadata": {
+      "random_seed": 2024,
+      "num_runs": 30,
+      "reward_confidence_interval_95": {
+        "lower": 0.44866123809523806,
+        "upper": 0.6080144955357143
+      },
+      "reward_minimum": 0.4456590476190477,
+      "reward_maximum": 0.6088174761904762
+    }
+  }
+]
